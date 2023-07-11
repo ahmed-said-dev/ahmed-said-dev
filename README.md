@@ -5,8 +5,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ahmed-said-dev/count.svg" />
 </p>
+
 ```yaml
-"Programming is like teaching machines to think. It's a language of possibilities."
+Hey, here is a text looks like a code
 ```
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
