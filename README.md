@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20BytesBayt!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
