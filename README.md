@@ -7,7 +7,7 @@
 </p>
 
 ```yaml
-Hey, here is a text looks like a code
+"Programming is like teaching machines to think. It's a language of possibilities."
 ```
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
