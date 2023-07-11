@@ -9,6 +9,9 @@
 ```yaml
 "Programming is like teaching machines to think. It's a language of possibilities."
 ```
+<p align="center">
+  <img src="terminal.gif"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
